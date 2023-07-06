@@ -1,0 +1,9 @@
+{
+    "ros.distro": "foxy",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}

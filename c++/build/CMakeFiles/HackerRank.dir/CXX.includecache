@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/io.h
+cmath
+-
+cstdio
+-
+vector
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+vector
+-
+
+/home/nader/Desktop/CoderByte/c++/src/io.cpp
+io.h
+/home/nader/Desktop/CoderByte/c++/src/io.h
+

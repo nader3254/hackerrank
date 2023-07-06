@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/HackerRank.dir/main.cpp.o CMakeFiles/HackerRank.dir/src/io.cpp.o  -o HackerRank 
